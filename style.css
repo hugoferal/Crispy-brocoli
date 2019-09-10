@@ -1,0 +1,135 @@
+li {
+    font-family: arial,sans-serif;
+    font-size: 13px; 
+    list-style: none; 
+    display: inline-block;
+    opacity: .60;
+}
+
+nav {
+    text-align: right; 
+    padding-right: 160px; 
+    word-spacing: 10px;
+}
+
+a, a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#test {
+    margin-top: 0px
+}
+
+img, #searchBox {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+#searchBox{
+
+width: 600px;
+height: 35px;
+    position:bottom: -20%;
+    border-radius: 20px;
+    box-shadow: 0px 5px 0px grey;
+    opacity: .20
+
+}
+
+img {
+    margin-top: 200px;
+}
+
+#userName {
+    opacity: .55;
+
+}
+
+#googleSearch {
+    text-align: center;
+}
+
+#feelingLucky {
+    width: 130px;
+    height: 40px;
+    font-family: arial, sans-serif;
+    font-size: 40px;
+    display: inline-block;
+}
+
+#two{
+    width: 130px;
+    height: 40px;
+    font-family: arial, sans-serif;
+    font-size: 40px;
+    display: inline-block;
+}
+
+
+#footer{
+    position:absolute;
+    bottom:-2%;
+    right:0%;
+    left:0%;
+    word-spacing: 0px;
+}
+
+#pieddroit{
+    position:absolute;
+    bottom:13%;
+    right:0%;
+    left:70%;
+    word-spacing: 0px;
+}
+
+#footerbackground{
+    background-color: #F6F6F6
+}
+
+#rightfoot
+{
+    position:absolute;
+    bottom:15%;
+    right:0%;
+    left:70%;
+    word-spacing: 5px;
+}
+
+#France
+{
+    display: inline-block;
+    margin-left: 40px;
+    margin-right: auto;
+}
+
+#France
+{
+    font-family: Arial, sans-serif;
+    opacity: .55;
+}
+
+hr {
+    opacity: .25;
+
+}
+
+#gmail 
+
+{
+    margin-top: 0px;
+
+}
+
+.box {
+          display: flex;
+          justify-content: flex-end;
+          align-items: flex-start;
+        }
+
+
